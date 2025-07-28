@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sunny Scoops Ice Cream Parlour</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fff8f0;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #ff9aa2;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+
+    nav {
+      background-color: #fcd5ce;
+      text-align: center;
+      padding: 10px 0;
+    }
+
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+    }
+
+    .container {
+      padding: 20px;
+      text-align: center;
+    }
+
+    .menu {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 20px;
+      margin-top: 20px;
+    }
+
+    .item {
+      background: #ffe0ac;
+      padding: 15px;
+      border-radius: 10px;
+      width: 200px;
+      box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+      transition: transform 0.2s;
+    }
+
+    .item:hover {
+      transform: scale(1.05);
+    }
+
+    .item img {
+      width: 100%;
+      border-radius: 8px;
+    }
+
+    footer {
+      background-color: #ff9aa2;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Sunny Scoops</h1>
+    <p>Delicious Ice Creams Made with Love!</p>
+  </header>
+
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">Menu</a>
+    <a href="#">Contact</a>
+  </nav>
+
+  <div class="container">
+    <h2>Our Flavours</h2>
+    <div class="menu">
+      <div class="item">
+        <img src="https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=500&q=80" alt="Vanilla Ice Cream">
+        <strong>Vanilla</strong><br>Classic and creamy
+      </div>
+      <div class="item">
+        <img src="https://media.istockphoto.com/id/936155834/photo/belgian-chocolate-ice-creams.webp?a=1&b=1&s=612x612&w=0&k=20&c=X4CHqo0iBqhn5wBZWu55ZocAtexJgRRrLOl1A7c8EvY=">
+        <strong>Chocolate</strong><br>Rich & smooth
+      </div>
+      <div class="item"><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sunny Scoops Ice Cream Parlour</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fff8f0;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #ff9aa2;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+
+    nav {
+      background-color: #fcd5ce;
+      text-align: center;
+      padding: 10px 0;
+    }
+
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+    }
+
+    .container {
+      padding: 20px;
+      text-align: center;
+    }
+
+    .menu {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 20px;
+      margin-top: 20px;
+    }
+
+    .item {
+      background: #ffe0ac;
+      padding: 15px;
+      border-radius: 10px;
+      width: 200px;
+      box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+      transition: transform 0.2s;
+    }
+
+    .item:hover {
+      transform: scale(1.05);
+    }
+
+    .item img {
+      width: 100%;
+      border-radius: 8px;
+    }
+
+    footer {
+      background-color: #ff9aa2;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Sunny Scoops</h1>
+    <p>Delicious Ice Creams Made with Love!</p>
+  </header>
+
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">Menu</a>
+    <a href="#">Contact</a>
+  </nav>
+
+  <div class="container">
+    <h2>Our Flavours</h2>
+    <div class="menu">
+      <div class="item">
+        <img src="https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=500&q=80" alt="Vanilla Ice Cream">
+        <strong>Vanilla</strong><br>Classic and creamy
+      </div>
+      <div class="item">
+        <img src="https://media.istockphoto.com/id/936155834/photo/belgian-chocolate-ice-creams.webp?a=1&b=1&s=612x612&w=0&k=20&c=X4CHqo0iBqhn5wBZWu55ZocAtexJgRRrLOl1A7c8EvY=">
+        <strong>Chocolate</strong><br>Rich & smooth
+      </div>
+      <div class="item">
+        <img src="https://media.istockphoto.com/id/2203879378/photo/strawberry-ice-cream-with-strawberry.webp?a=1&b=1&s=612x612&w=0&k=20&c=PGiB2UVvv9WK2CN2G32TbaaK9uERtptraBpMGq2ht1I=">
+        <strong>Strawberry</strong><br>Fresh berry delight
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    &copy; 2025 Sunny Scoops Ice Cream Parlour | Follow us @SunnyScoops
+  </footer>
+</body>
+</html>
+        <img src="https://media.istockphoto.com/id/2203879378/photo/strawberry-ice-cream-with-strawberry.webp?a=1&b=1&s=612x612&w=0&k=20&c=PGiB2UVvv9WK2CN2G32TbaaK9uERtptraBpMGq2ht1I=">
+        <strong>Strawberry</strong><br>Fresh berry delight
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    &copy; 2025 Sunny Scoops Ice Cream Parlour | Follow us @SunnyScoops
+  </footer>
+</body>
+</html>
+
+
